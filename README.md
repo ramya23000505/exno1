@@ -1,6 +1,3 @@
-### Name: RAMYA R
-### Register Number: 212223230169
-
 # Exno:1
 Data Cleaning Process
 
@@ -24,6 +21,10 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+```
+Name: RAMYA R
+Register Number: 212223230169
+```
 ```
 import pandas as pd
 data = pd.read_csv("SAMPLEIDS.csv")
@@ -159,4 +160,4 @@ df1
 ![image](https://github.com/user-attachments/assets/bd17fd9e-03bb-4770-bfcc-f5e948f32874)
 
 # Result
-          <<include your Result here>>
+        Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
