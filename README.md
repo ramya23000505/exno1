@@ -160,4 +160,4 @@ df1
 ![image](https://github.com/user-attachments/assets/bd17fd9e-03bb-4770-bfcc-f5e948f32874)
 
 # Result
-        Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
+Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
