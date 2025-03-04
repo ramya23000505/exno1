@@ -73,7 +73,7 @@ data_dropped
 ```
 ![image](https://github.com/user-attachments/assets/e40a13ec-c3bc-498f-8365-298d82f1b5a2)
 
-###  IQR(Inter Quartile Range)
+###                                                               IQR(Inter Quartile Range)
 ```
 ir=pd.read_csv('iris.csv')
 ir
@@ -110,7 +110,7 @@ sns.boxplot(x='sepal_width',data=delid)
 ```
 ![image](https://github.com/user-attachments/assets/17de4101-e1a0-41de-9663-b324e0a575f1)
 
-###  Z-Score
+###                                                                Z-Score
 ```
 import matplotlib.pyplot as plt
 import numpy as np
